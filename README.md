@@ -6,4 +6,4 @@
 
 3) To hide the batch file so you only see the shortcut file please right click on the batch file and click on propertie's then tick the hidden box and click apply.
 
-- Developed by DrewMorr17.   GitHub.com/DrewMorr17.
+- Developed by DrewMorr17:   GitHub.com/DrewMorr17.
