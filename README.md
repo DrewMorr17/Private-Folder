@@ -1,7 +1,7 @@
 - How to set up the private folder:
 
 
-1) This program only works on the Windows operating system. These instructions were designed based on windows 11, steps will vary on different windows versions. Do the following steps in order!
+1) This program only works on the Windows operating system. These instructions were designed based on windows 11, steps may vary on different windows versions. Do the following steps in order!
 
 
 2) Extract all the files in the ZIP file you have just downloaded to where you would like your private folder to be.
