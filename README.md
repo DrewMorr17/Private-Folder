@@ -1,9 +1,21 @@
-- How to set up:   Please do the following step's in order.
+- How to set up the private folder:   Do the following steps in order!
 
-1) To add a password to your batch file please right click it and click edit then go to line 49 and 63 then delete the three place holder dot's and type a password for your private folder, this can be any thing as there are no requirement's, please make sure both password's are the same or the program will not work.
+1) Extract all the files in the ZIP file you have just downloaded to where you would like your private folder to be.
 
-2) To change the shortcut icon to a file icon please right click the shortcut file and click on propertie's click change icon and then ok then click on the folder icon and click apply.
+2) Open the folder that has been created containing all of the extracted items inside.
 
-3) To hide the batch file so you only see the shortcut file please right click on the batch file and click on propertie's then tick the hidden box and click apply.
+3) Right-click on the BATCH file and click on show more options then click on edit there will be a warning window just click run anyway.
 
-- Developed by DrewMorr17:   GitHub.com/DrewMorr17.
+4) Navigate to line 49 and delete the 5 place holder dots then type the password you would like to be used to open the private folder.
+
+5) Repeat step 4 on line 63 make sure you type the same password as you did on line 49 failing to do so will make the program unusable.
+
+6) Head back to the file containing the extracted files.
+
+7) Right-click on the SHORTCUT file then click on properties then change icon there will be a warning message just click ok then click on the file icon then click ok then click apply.
+
+8) Right-click on the BATCH file and click on properties then tick the box next to hidden then click apply.
+
+9) Double-clicking on the SHORTCUT file will open a CMD prompt that will give you the rest of the information you need to use the private folder.
+
+- Developed by DrewMorr17:   https://GitHub.com/DrewMorr17
