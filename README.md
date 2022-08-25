@@ -10,7 +10,7 @@
 3) Open the folder that has been created containing all of the extracted items inside.
 
 
-4) Right-click on the BATCH file and click on show more options then click on edit there will be a warning window just click run anyway.
+4) Right-click on the BATCH file and click on show more options then click on edit there will be a warning window just click more info then click run anyway.
 
 
 5) Navigate to line 49 and delete the 5 placeholder dots then type the password you would like to be used to open the private folder.
