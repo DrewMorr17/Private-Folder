@@ -16,7 +16,7 @@
 5) Navigate to line 51 and delete the 5 placeholder dots then type the password you would like to be used to open the private folder.
 
 
-6) Repeat step 4 on line 63 make sure you type the same password as you did on line 49 failing to do so will make the program unusable.
+6) Repeat step 5 on line 65 make sure you type the same password as you did on line 49 failing to do so will make the program unusable.
 
 
 7) Head back to the file containing the extracted files.
