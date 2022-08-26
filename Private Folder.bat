@@ -1,3 +1,5 @@
+:: Coded by DrewMorr17   --->   https://GitHub.com/DrewMorr17 
+
 @ECHO OFF
 title Private Folder
 if EXIST "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK
