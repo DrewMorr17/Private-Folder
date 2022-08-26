@@ -78,10 +78,7 @@ goto END
 :MDLOCKER
 md "Private Folder"
 echo Private Folder Was Successfully Created.   Use This Batch File To Lock And Unlock Private Folder.
-goto END1
+goto END
 
 :END
 timeout 5
-
-:END1
-timeout 15
