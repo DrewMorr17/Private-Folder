@@ -31,4 +31,4 @@
 10) Double-clicking on the SHORTCUT file will open a CMD prompt that will give you the rest of the information you need to use the private folder.
 
 
-- Developed by DrewMorr17   --->   https://GitHub.com/DrewMorr17
+- Coded by DrewMorr17   --->   https://GitHub.com/DrewMorr17
