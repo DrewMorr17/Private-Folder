@@ -13,7 +13,7 @@
 4) Right-click on the BATCH file and click on show more options then click on edit there will be a warning window just click more info then click run anyway.
 
 
-5) Navigate to line 49 and delete the 5 placeholder dots then type the password you would like to be used to open the private folder.
+5) Navigate to line 51 and delete the 5 placeholder dots then type the password you would like to be used to open the private folder.
 
 
 6) Repeat step 4 on line 63 make sure you type the same password as you did on line 49 failing to do so will make the program unusable.
